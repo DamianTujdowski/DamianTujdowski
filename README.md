@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Damian</h1>
 <h3 align="center">A Java developer with graphic design background keen on writing web apps</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=damiantujdowski" alt="damiantujdowski" /></a> </p>
-
 - 🔭 I’m currently working on **Wegner document circulation manager**
 
 - 🌱 I’m currently learning **Spring Security**
