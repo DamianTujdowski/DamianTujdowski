@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Spring Security**
 
-- 💬 Ask me about **anything related to Java or LEGO Technic**
-
 - 📫 How to reach me **d.tujdowski@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/damian-tujdowski/](https://www.linkedin.com/in/damian-tujdowski/)
