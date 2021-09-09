@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Damian</h1>
-<h3 align="center">A Java developer with graphic design background keen on coding</h3>
+<h3 align="center">A Java developer candidate with graphic design background keen on coding</h3>
 
 - 🔭 I’m currently working on **Wegner document circulation manager**
 
