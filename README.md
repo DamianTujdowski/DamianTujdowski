@@ -2,6 +2,11 @@
 <h1 align="center">Hi 👋, I'm Damian</h1>
 <h3 align="center">A Java developer candidate with graphic design background keen on coding</h3>
 
+My interest in programming came from automationing work done in Adobe Illustrator.
+Will of developing in that direction made me choose Java technology.
+I remember delight brought about my first programs executing commands.
+This delight pushed me to the learning process, thanks to which I am writing web apps now.
+
 - 🔭 I’m currently working on **Wegner document circulation manager**
 
 - 🌱 I’m currently learning **Spring Security**
