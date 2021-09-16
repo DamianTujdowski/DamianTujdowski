@@ -4,8 +4,13 @@
 
 My interest in programming came from automationing work done in Adobe Illustrator.
 Will of developing in that direction made me choose Java technology.
+
 I remember delight brought about my first programs executing commands.
-This delight pushed me to the learning process, thanks to which I am writing web apps now.
+This delight pushed me to the learning process, throughout which I get to now and used in practice Spring Boot, 
+SQL, Hibernate, Git, JUnit, just to name a few.
+Taking breaks writing apps i took courses in scope of algorithms, data structures and desig patterns.
+
+As an effect of my previous education I am writing web apps now.
 
 - 🔭 I’m currently working on **Wegner document circulation manager**
 
