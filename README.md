@@ -3,7 +3,7 @@
 <h3 align="center">A Java developer candidate with graphic design background keen on coding</h3>
 
 My interest in programming came from automationing work done in Adobe Illustrator over 3 years ago.
-Will of developing in that direction made me choose Java language.
+Will of development in that direction made me choose Java language.
 
 I remember delight brought about my first programs commands execution and possibilities they showed to me.
 This delight pushed me to the learning process, throughout which I get to now and used in practice Spring Boot, 
